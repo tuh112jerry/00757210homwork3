@@ -11,6 +11,7 @@
 		35C63FD62551D40500129BD2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C63FD52551D40500129BD2 /* ContentView.swift */; };
 		35C63FD82551D40600129BD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35C63FD72551D40600129BD2 /* Assets.xcassets */; };
 		35C63FDB2551D40600129BD2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35C63FDA2551D40600129BD2 /* Preview Assets.xcassets */; };
+		35C63FEC2551D51A00129BD2 /* secondview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C63FEB2551D51A00129BD2 /* secondview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		35C63FD72551D40600129BD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35C63FDA2551D40600129BD2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		35C63FDC2551D40600129BD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		35C63FEB2551D51A00129BD2 /* secondview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				35C63FD32551D40500129BD2 /* _0757210homwork3App.swift */,
 				35C63FD52551D40500129BD2 /* ContentView.swift */,
+				35C63FEB2551D51A00129BD2 /* secondview.swift */,
 				35C63FD72551D40600129BD2 /* Assets.xcassets */,
 				35C63FDC2551D40600129BD2 /* Info.plist */,
 				35C63FD92551D40600129BD2 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				35C63FD62551D40500129BD2 /* ContentView.swift in Sources */,
 				35C63FD42551D40500129BD2 /* _0757210homwork3App.swift in Sources */,
+				35C63FEC2551D51A00129BD2 /* secondview.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
